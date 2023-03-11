@@ -1,0 +1,31 @@
+html,
+body {
+  font-family: "Play", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav a,
+.hamburger-label {
+  color: $primary-color;
+}
+
+nav a:hover {
+  color: $secondary-color;
+  text-decoration: underline;
+}
+
+nav a .active {
+  text-decoration: line-through;
+}
+
+nav i {
+  color: $primary-color;
+}
