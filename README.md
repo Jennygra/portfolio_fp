@@ -2,12 +2,10 @@
 
 ![image](https://www.linkpicture.com/q/Skjermbilde-2023-03-11-kl.07.08.25.png)
 
-## Description
-
 ## Built With
 
-- [HTML]
-- [JavaScript]
+- [HTML](https://html.com)
+- [JavaScript](https://www.javascript.com)
 - [Sass](https://sass-lang.com)
 
 ## Hosted Demo
